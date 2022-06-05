@@ -1,5 +1,35 @@
-# Миша Кайзер
-*Это просто первый попавшийся мне в мыслях текст, который не преследует никакой другой цели, кроме конкуренции с lorem ipsum*
-*Не всё ходить на рыбалку за текстами на сайты по рандомной генерации, у нас есть свои мозги для бредней*
+# Misha Kaiser
+**Date of birth:** 30/05/1997 **Email adress:** mishakai3er@gmail.com **VK:** https://vk.com/mishakai3er **Discord:** mishakai3er#1139
+### Profile
+Junior Web Developer specializing in front-end development with over one year of demonstrated experience in software industry. Committed, cooperative and highly responsible. Experienced in multipal commercial team projects and a few indie applications. Open-minded to new knowledge and technology.
 
-##### Вот мой VK: https://vk.com/mishakai3er
+### Skill Highlights 
+  * Project management 
+  * Complex problem-solving
+  * Leadership
+  * Interpersonal skills
+  * Public speaking
+  * Critical thinking
+
+### Technology Stack
+Well-versed in numerous programming languages including HTML5, CSS/CSS3, SASS and JavaScript. Using Git, GitHub, Dev Tools, Microsoft PowerShell, VS Code, Figma.
+
+### Сode Example
+
+**Codewars completed task:** https://www.codewars.com/kata/50654ddff44f800200000004
+
+### Work experience
+
+**Web Developer** - 06/2021 to 06/2022
+Killshark Studio, Yekaterinburg
+  * Cooperate with designers, sound producers and back-end developers to create clean user-friendly interfaces and dynamic intuitive interactions and experience.
+  * Provide innovative ideas and conceptualize all projects with the team and maintain optimal workflow. 
+  * Complete detailed programking and development tasks and perform unit-tests on back-end servers.
+  * Long-term support of the applications
+ 
+ ### Education
+* Bachelor of Science: **International Relationships** - 2019  Ural Federal University named after the first President of Russia B. N. Yeltsin, Yekaterinburg.
+* HTML Academy Junior Web Developer Course - 2022
+
+## Foreign Languages
+English **B2** German **B2** Swedish **A2**
