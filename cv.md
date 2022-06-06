@@ -38,7 +38,7 @@ create();
 Killshark Studio, Yekaterinburg
   * Cooperate with designers, sound producers and back-end developers to create clean user-friendly interfaces and dynamic intuitive interactions and experience.
   * Provide innovative ideas and conceptualize all projects with the team and maintain optimal workflow. 
-  * Complete detailed programking and development tasks and perform unit-tests on back-end servers.
+  * Complete detailed programming and development tasks and perform unit-tests on back-end servers.
   * Long-term support of the applications
  #### Small pat project as an example: https://theomorphic.github.io/Tic-Tac-Toe/
  
